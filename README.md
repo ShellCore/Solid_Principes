@@ -12,7 +12,9 @@ Para ejemplificar el principio "Abierto para la extensión y cerrado para modifi
 
 En el principio de "Sustitución de Liskov" (**L**iskov's sustitution), se desarrolló un ejemplo donde se se simula una tienda de mascotas.
 
-Para demostrar el principio de "Segregación de interfaces" (Interface segregation), se realizó la ejemplificación de las posibles tareas requeridas en una fábrica, definidas en una interfaz. Luego se realizó la separación de éstas tareas en interfaces más pequeñas, por que no todas las fábricas realizan todas las tareas definidas.
+Para demostrar el principio de "Segregación de interfaces" (**I**nterface segregation), se realizó la ejemplificación de las posibles tareas requeridas en una fábrica, definidas en una interfaz. Luego se realizó la separación de éstas tareas en interfaces más pequeñas, por que no todas las fábricas realizan todas las tareas definidas.
+
+Por último, para ejemplificar el principio de "Inversión de dependencias" (**D**ependence inversion), se realizó un ejemplo con la obtención de input y output de sun sistema que requiere leer y mostrar datos, sin importar de donde provenga la fuente, ya que las clases de más alto nivel no requieren saber de donde se toma los datos.
 
 ## Fuente
 
