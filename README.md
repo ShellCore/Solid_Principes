@@ -8,6 +8,8 @@ Java
 
 Para definir el principio de "Responsabilidad Simple" (**S**olid Responsability), se realiza un ejemplo en el cual se calcula los salarios que se les van a pagar a unos trabajadores, por su puesto en la empresa, y por la cantidad de horas extra que se le agregaron.
 
+Para ejemplificar el principio "Abierto para la extensión y cerrado para modificaciones" (**O**pen closed), se realizó un ejemplo en donde se realiza el papeleo de una universidad.
+
 ## Fuente
 
 **SOLID Principles** es el 2do. ejemplo de la _"Lección 3: Estructuras de datos"_ del curso [Java Fundamentals for Android Development](https://courses.edx.org/courses/course-v1:GalileoX+CAAD001X+1T2017/info) de la plataforma educativa [Edx](https://www.edx.org/).

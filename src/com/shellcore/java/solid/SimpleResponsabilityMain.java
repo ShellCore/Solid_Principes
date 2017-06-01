@@ -9,7 +9,7 @@ import java.util.HashMap;
  * Responsabilidad Simple
  * Created by Cesar. 01/06/2017.
  */
-public class Main {
+public class SimpleResponsabilityMain {
 
     public static void main(String[] args) {
         HashMap<Integer, Worker> companyWorkers = new HashMap<>();
