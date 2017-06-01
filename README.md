@@ -10,6 +10,8 @@ Para definir el principio de "Responsabilidad Simple" (**S**olid Responsability)
 
 Para ejemplificar el principio "Abierto para la extensión y cerrado para modificaciones" (**O**pen closed), se realizó un ejemplo en donde se realiza el papeleo de una universidad.
 
+En el principio de "Sustitución de Liskov" (**L**iskov's sustitution), se desarrolló un ejemplo donde se se simula una tienda de mascotas.
+
 ## Fuente
 
 **SOLID Principles** es el 2do. ejemplo de la _"Lección 3: Estructuras de datos"_ del curso [Java Fundamentals for Android Development](https://courses.edx.org/courses/course-v1:GalileoX+CAAD001X+1T2017/info) de la plataforma educativa [Edx](https://www.edx.org/).
