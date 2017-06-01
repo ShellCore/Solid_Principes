@@ -12,6 +12,8 @@ Para ejemplificar el principio "Abierto para la extensión y cerrado para modifi
 
 En el principio de "Sustitución de Liskov" (**L**iskov's sustitution), se desarrolló un ejemplo donde se se simula una tienda de mascotas.
 
+Para demostrar el principio de "Segregación de interfaces" (Interface segregation), se realizó la ejemplificación de las posibles tareas requeridas en una fábrica, definidas en una interfaz. Luego se realizó la separación de éstas tareas en interfaces más pequeñas, por que no todas las fábricas realizan todas las tareas definidas.
+
 ## Fuente
 
 **SOLID Principles** es el 2do. ejemplo de la _"Lección 3: Estructuras de datos"_ del curso [Java Fundamentals for Android Development](https://courses.edx.org/courses/course-v1:GalileoX+CAAD001X+1T2017/info) de la plataforma educativa [Edx](https://www.edx.org/).
